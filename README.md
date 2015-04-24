@@ -1,31 +1,43 @@
-T5403_Barometric_Breakout
+Sparkfun T5403 Barometric Breakout
 =========================
+![Sparkfun T5403 Barometric Breakout](https://cdn.sparkfun.com/assets/parts/8/6/0/0/12039-01.jpg)
 
-Breakout board and example code for the Epcos T5403 barometric pressure sensor.
+[*SEN-12039*](https://www.sparkfun.com/products/12039)
 
-[![alt text](https://cdn.sparkfun.com/assets/parts/8/6/0/0/12039-01.jpg)](https://cdn.sparkfun.com/assets/parts/8/6/0/0/12039-01.jpg)
-
-Product page: [www.sparkfun.com/products/12039](https://www.sparkfun.com/products/12039)
-
-Hookup Guide: [learn.sparkfun.com/tutorials/t5403-barometric-pressure-sensor-hookup](https://learn.sparkfun.com/tutorials/t5403-barometric-pressure-sensor-hookup)
+The Epcos T5403 barometric pressure sensor is capable of measuring altitude/pressure and temperature in a very small package.
 
 Repository Contents
 -------------------
 
-* **/Fritzing** - Fritzing Example wiring images
-* **/Hardware** - All Eagle design files (.brd, .sch)
-* **/Libraries** - All Arduino libraries and board examples
-* **/Production** - Test bed files and production panel files
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Libraries** - Libraries for use with the SparkFun T5403 Barometric Breakout
+* **/Production** - Production panel files (.brd)
+
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library)** - Arduino library for the SparkFun T5403 Barometric Breakout.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/t5403-barometric-pressure-sensor-hookup-guide)** - Basic hookup guide for the SparkFun T5403 Barometric Breakout.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
 Product Versions
 ----------------
-* [SEN-12039](https://www.sparkfun.com/products/12039) - T5403 Barometric Sensor Breakout
+* [SEN-12039](https://www.sparkfun.com/products/12039L)- SparkFun T5403 Barometric Breakout
 
-Authors
--------
-
- * Casey Kuhns, SparkFun Electronics
+Version History
+---------------
+* [v1.0]() - Description 
 
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
+This product is _**open source**_! 
+
+The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The **code** is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
+
+Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.

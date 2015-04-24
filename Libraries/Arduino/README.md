@@ -19,7 +19,11 @@ Repository Contents
 Documentation
 --------------
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+<<<<<<< HEAD
 * **[Product Repository](GitHub Product URL)** - Main repository (including hardware files) for the <PRODUCT NAME>.
+=======
+* **[Product Repository](https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout)** - Main repository (including hardware files) for the SparkFun T5403 Barometric Sensor Breakout.
+>>>>>>> 632f3204ecb511a251ab20a58fff034d652b2c8f
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/t5403-barometric-pressure-sensor-hookup)** - Basic hookup guide for the T5403 Barometric Pressure Sensor.
 
 Products that use this Library 
@@ -42,4 +46,8 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 
 Distributed as-is; no warranty is given.
 
+<<<<<<< HEAD
 - Your friends at SparkFun.
+=======
+- Your friends at SparkFun.
+>>>>>>> 632f3204ecb511a251ab20a58fff034d652b2c8f

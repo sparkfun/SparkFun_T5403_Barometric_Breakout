@@ -1,5 +1,5 @@
 Sparkfun T5403 Barometric Sensor Breakout Arduino Library
-=========================
+=======================================================
 
 ![T5403 Barometric Pressure Sensor](https://cdn.sparkfun.com/assets/parts/8/6/0/0/12039-01.jpg)
 
@@ -11,19 +11,13 @@ Repository Contents
 -------------------
 
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
-* **/extras** - Additional documentation for the user. These files are ignored by the IDE. 
 * **/src** - Source files for the library (.cpp, .h).
 * **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
 * **library.properties** - General library properties for the Arduino package manager. 
 
 Documentation
 --------------
-* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-<<<<<<< HEAD
-* **[Product Repository](GitHub Product URL)** - Main repository (including hardware files) for the <PRODUCT NAME>.
-=======
 * **[Product Repository](https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout)** - Main repository (including hardware files) for the SparkFun T5403 Barometric Sensor Breakout.
->>>>>>> 632f3204ecb511a251ab20a58fff034d652b2c8f
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/t5403-barometric-pressure-sensor-hookup)** - Basic hookup guide for the T5403 Barometric Pressure Sensor.
 
 Products that use this Library 
@@ -32,8 +26,8 @@ Products that use this Library
 
 Version History
 ----------------
-
-* [1.0]() - Initial Release
+* [1.0.1](https://github.com/sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library/tree/V_1.0.1) - Small clean-up, edits.
+* [1.0](https://github.com/sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library/tree/V_1.0) - Initial Release
 
 License Information
 -------------------
@@ -46,8 +40,4 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 
 Distributed as-is; no warranty is given.
 
-<<<<<<< HEAD
 - Your friends at SparkFun.
-=======
-- Your friends at SparkFun.
->>>>>>> 632f3204ecb511a251ab20a58fff034d652b2c8f

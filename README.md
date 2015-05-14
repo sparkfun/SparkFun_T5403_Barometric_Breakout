@@ -9,6 +9,7 @@ The Epcos T5403 barometric pressure sensor is capable of measuring altitude/pres
 Repository Contents
 -------------------
 
+* **/Documentation** - Data sheets and additional information. 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Libraries** - Libraries for use with the SparkFun T5403 Barometric Breakout
 * **/Production** - Production panel files (.brd)
@@ -26,7 +27,8 @@ Product Versions
 
 Version History
 ---------------
-* [v1.0]() - Description 
+* [V_H1.0_L1.0.1](https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout/tree/V_H1.0_L1.0.1) - Hardware version 1.0, library version 1.0.1
+* [v1.0](https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout/tree/V_1.0) - Hardware version 1.0, library version 1.0
 
 License Information
 -------------------
